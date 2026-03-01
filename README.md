@@ -10,6 +10,7 @@ A curated list of awesome interactive / [explorable explanations](http://worrydr
 - [Cameras and Lenses](https://ciechanow.ski/cameras-and-lenses/) by **Bartosz Ciechanowski** ([ciechanow.ski](https://ciechanow.ski/archives/))
 - [Color Spaces](https://ciechanow.ski/color-spaces/) by **Bartosz Ciechanowski** ([ciechanow.ski](https://ciechanow.ski/archives/))
 - [Curves and Surfaces](https://ciechanow.ski/curves-and-surfaces/) by **Bartosz Ciechanowski** ([ciechanow.ski](https://ciechanow.ski/archives/))
+- [Decision Trees](https://mlu-explain.github.io/decision-tree/)  by **Jared Wilber** & **Lucía Santamaría**
 - [Earth and Sun](https://ciechanow.ski/earth-and-sun/) by **Bartosz Ciechanowski** ([ciechanow.ski](https://ciechanow.ski/archives/))
 - [Gears](https://ciechanow.ski/gears/) by **Bartosz Ciechanowski** ([ciechanow.ski](https://ciechanow.ski/archives/))
 - [GPS](https://ciechanow.ski/gps/) by **Bartosz Ciechanowski** ([ciechanow.ski](https://ciechanow.ski/archives/))
@@ -17,10 +18,12 @@ A curated list of awesome interactive / [explorable explanations](http://worrydr
 - [Immersive Linear Algebra](https://immersivemath.com/ila/index.html) by **J. Ström, K. Äström, and T. Akenine-Möller**
 - [Internal Combustion Engine](https://ciechanow.ski/internal-combustion-engine/) by **Bartosz Ciechanowski** ([ciechanow.ski](https://ciechanow.ski/archives/))
 - [Lights and Shadows](https://ciechanow.ski/lights-and-shadows/) by **Bartosz Ciechanowski** ([ciechanow.ski](https://ciechanow.ski/archives/))
+- [Linear Regression](https://mlu-explain.github.io/linear-regression/) by **Jared Wilber**
 - [Load Balancing](https://samwho.dev/load-balancing/) by **Sam Rose** ([samwho.dev](https://samwho.dev/))
 - [Mechanical Watch](https://ciechanow.ski/mechanical-watch/) by **Bartosz Ciechanowski** ([ciechanow.ski](https://ciechanow.ski/archives/))
 - [Memory Allocation](https://samwho.dev/memory-allocation/) by **Sam Rose** ([samwho.dev](https://samwho.dev/))
 - [Naval Architecture](https://ciechanow.ski/naval-architecture/) by **Bartosz Ciechanowski** ([ciechanow.ski](https://ciechanow.ski/archives/))
+- [Neural Networks](https://mlu-explain.github.io/neural-networks/) by **Jared Wilber**
 - [Reading QR codes without a computer!](https://qr.blinry.org/) by **Piko** and **blinry** ([blinry.org](https://blinry.org/))
 - [Rigid Body Collisions](https://www.sassnow.ski/rigid-body-collisions/1) by **Kai Sassnowski** ([sassnow.ski](https://www.sassnow.ski))
 - [Sound](https://ciechanow.ski/sound/) by **Bartosz Ciechanowski** ([ciechanow.ski](https://ciechanow.ski/archives/))
